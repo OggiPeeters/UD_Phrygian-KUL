@@ -1,6 +1,6 @@
 # Summary
 
-UD Phrygian-KUL annotates the New Phrygian subcorpus of the ancient Phrygian language as part of an Master's thesis in linguistics at KU Leuven.
+UD Phrygian-KUL annotates the New Phrygian subcorpus of the ancient Phrygian language as part of a Master's thesis in linguistics at KU Leuven.
 
 # Introduction
 
