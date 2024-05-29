@@ -4,7 +4,7 @@ UD Phrygian-KUL annotates the New Phrygian subcorpus of the ancient Phrygian lan
 
 # Introduction
 
-UD Phrygian-KUL annotates the New Phrygian subcorpus of the ancient Phrygian language. The data are comprised of epigraphic material dating ca. 1st-3rd centuries CE following the edition by Bartomeu Obrador-Cursach (2020, pp. 525-606), with additional grammatical information taken from Ligorio and Lubotsky (2018).
+UD Phrygian-KUL annotates the New Phrygian subcorpus of the ancient Phrygian language. The data are comprised of epigraphic material dating ca. 1st-3rd centuries CE following the edition by Bartomeu Obrador-Cursach (2020, pp. 525-606), with additional grammatical information taken from Ligorio and Lubotsky (2018) and a notable emendation by Hämmig (2022).
 
 Since the data are epigraphic, the sentences can be linked to various metadata through stable identifiers provided by Trismegistos (https://www.trismegistos.org/tm/index.php). This way, there is little difficulty in finding the provenance and approximate date of every New Phrygian inscription.
 
@@ -15,6 +15,7 @@ The data were annotated by Oggi Peeters as part of a Master's thesis in linguist
 ## References
 
 * Depauw, M., & Gheldof, T. (2014). Trismegistos. An interdisciplinary Platform for Ancient World Texts and Related Information. In Ł. Bolikowski, V. Casarosa, P. Goodale, N. Houssos, P. Manghi, J. Schirrwagen (Eds.), *Theory and Practice of Digital Libraries - TPDL 2013 Selected Workshops (Communications in Computer and Information Science 416)*, 40–52.
+* Hämmig, A. E. (2022). A “new” Neo-Phrygian curse formula. In B. Obrador-Cursach & I.-X. Adiego (Eds.), *Phrygian linguistics and epigraphy: new insights* (pp. 89-102). Universitat de Barcelona.
 * Ligorio, O., & Lubotsky, A. (2018). Phrygian. In J. Klein, B. Joseph, & M. Fritz (Eds.), *Handbook of Comparative and Historical Indo-European Linguistics*, 1816-1831. De Gruyter Mouton.
 * Obrador-Cursach, B. (2020). *The Phrygian Language*. Brill.
 
