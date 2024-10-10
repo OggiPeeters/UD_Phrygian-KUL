@@ -6,6 +6,8 @@ UD Phrygian-KUL annotates the New Phrygian subcorpus of the ancient Phrygian lan
 
 UD Phrygian-KUL annotates the New Phrygian subcorpus of the ancient Phrygian language. The data are comprised of epigraphic material dating ca. 1st-3rd centuries CE following the edition by Bartomeu Obrador-Cursach (2020, pp. 525-606), with additional grammatical information taken from Ligorio and Lubotsky (2018) and a notable emendation by Hämmig (2022).
 
+In case any rights were violated, please notify the contributors (see below) so that we can resolve the issue.
+
 Since the data are epigraphic, the sentences can be linked to various metadata through stable identifiers provided by Trismegistos (https://www.trismegistos.org/tm/index.php). This way, there is little difficulty in finding the provenance and approximate date of every New Phrygian inscription.
 
 # Acknowledgments
